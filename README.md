@@ -2,6 +2,12 @@
 
 This repository contains utilities to generate a custom XML sitemap for [zorphdark.com](https://www.zorphdark.com), based on Blogger export format.
 
+## Sitemap Location
+
+Access the live sitemap:
+
+➡️ [View sitemap.xml](sitemap/sitemap.xml)
+
 ## Features
 
 - Automatically parses Blogger export files.
